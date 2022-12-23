@@ -30,4 +30,5 @@ result = leftSide == rightSide
 if result == True:
   print('Утверждение истинно')
 else:
-  print('Утверждение ложно')
+  print('Утверждение ложно') 
+#fd
